@@ -5,6 +5,11 @@
 ## Overview
 This project focuses on a computer vision–based system designed to monitor and validate bolt tightening sequences in an automotive assembly environment. The system ensures that bolts are tightened in the correct order by integrating visual tracking with industrial tool feedback.
 
+## Team Context
+This system was developed as part of an industrial team during my internship, where core system development was handled by full-time engineers.
+
+My role focused on supporting system testing, validation, and fine-tuning to ensure reliable performance in a real production environment.
+
 ## Project Context
 At the time of joining the internship, this system was already in the testing and validation phase. My primary contribution was supporting system testing, validation, and fine-tuning to ensure reliable performance in a real production environment.
 
